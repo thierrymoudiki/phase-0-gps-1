@@ -1,5 +1,5 @@
 
-    * __What Git concepts were you struggling with prior to the GPS session?__
+   * __What Git concepts were you struggling with prior to the GPS session?__
   
     Branches, and 'where' to push. 
   
